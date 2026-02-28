@@ -106,9 +106,9 @@ I'm a dedicated **Network Security Engineer** with expertise in enterprise infra
 
 | Platform | Link |
 |----------|------|
-| 💼 **LinkedIn** | [Mohammed Al-Habib](https://linkedin.com/in/mohammed-al-habib) |
+| 💼 **LinkedIn** | [Mohammed Al-Habib]([https://linkedin.com/in/mohammed-al-habib](https://www.linkedin.com/in/mohammed-al-habib-20b544252/)) |
 | 🌐 **Portfolio** | [alhbeeb.tech](https://alhbeeb.tech) |
-| 📧 **Email** | m.altheeb1@gmail.com |
+| 📧 **Email** | m.alhbeeb1@gmail.com |
 
 </div>
 
