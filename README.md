@@ -14,7 +14,7 @@
 
 ## 💼 About Me
 
-I'm a dedicated **Network Security Engineer** with expertise in enterprise infrastructure, penetration testing, and cloud solutions. Currently serving as the sole IT professional at **Sulalat** (300-employee coffee company), managing infrastructure at scale.
+I'm a dedicated **Network Security Engineer** with expertise in enterprise infrastructure, penetration testing, and cloud solutions. Currently serving as the sole IT professional at **** (300-employee coffee company), managing infrastructure at scale.
 
 **Key Focus Areas:**
 - 🔐 Penetration Testing & Vulnerability Assessment
