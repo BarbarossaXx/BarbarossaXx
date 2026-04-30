@@ -4,7 +4,7 @@
   
 ### 🔒 IT & Network Security Specialist | Penetration Tester | Full-Stack Developer
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-al-habib)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-al-habib-20b544252/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0066CC?style=for-the-badge&logo=world&logoColor=white)](https://alhbeeb.tech)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BarbarossaXx)
 
@@ -14,10 +14,11 @@
 
 ## 💼 About Me
 
-I'm a dedicated **Network Security Engineer** with expertise in enterprise infrastructure, penetration testing, and cloud solutions. Currently serving as the sole IT professional at **** (300-employee coffee company), managing infrastructure at scale.
+I'm a dedicated **Network Security Engineer** with expertise in enterprise infrastructure, penetration testing, and cloud solutions. Currently serving as the sole IT professional at a **300-employee coffee company**, managing infrastructure at scale.
 
 **Key Focus Areas:**
 - 🔐 Penetration Testing & Vulnerability Assessment
+- 🛡️ Security Operations & Threat Detection
 - 🏗️ Enterprise Network Architecture & Deployment
 - ☁️ Cloud Infrastructure (AWS, Google Workspace, Microsoft 365)
 - 🖥️ System Administration & Security Hardening
@@ -28,9 +29,12 @@ I'm a dedicated **Network Security Engineer** with expertise in enterprise infra
 
 ## 🏆 Certifications & Achievements
 ```
-✅ CAPT (Certified Associate Penetration Tester)
+✅ CAPT  (Certified Associate Penetration Tester)
    └─ Hackviser | Top 3 Ranking in Saudi Arabia 🇸🇦
-   
+
+✅ CSOA  (Certified Security Operations Analyst)
+   └─ Blue Team / SOC Analyst Track
+
 📚 In Progress:
    ├─ CCNA (Cisco Certified Network Associate)
    └─ Security+ (CompTIA)
@@ -53,7 +57,7 @@ I'm a dedicated **Network Security Engineer** with expertise in enterprise infra
 | **Backend** | Node.js, Express, REST APIs |
 | **Databases** | PostgreSQL, Supabase, MongoDB |
 | **Cloud** | AWS, Google Cloud, Azure basics |
-| **Tools** | Burp Suite, Metasploit, Nmap, Wireshark, Git |
+| **Security Tools** | Burp Suite, Metasploit, Nmap, Wireshark, SIEM |
 | **Platforms** | Linux, Windows Server, macOS |
 
 </div>
@@ -61,12 +65,6 @@ I'm a dedicated **Network Security Engineer** with expertise in enterprise infra
 ---
 
 ## 🚀 Featured Projects
-
-### 💳 [Damanati](https://github.com/BarbarossaXx/Damanati)
-**Warranty Management Application** | React Native + Supabase
-- Bilingual (Arabic/English) warranty tracking system
-- User authentication and data persistence
-- Real-time database synchronization
 
 ### 🔧 [Business IT Solutions](https://github.com/BarbarossaXx/business-it-solutions)
 **Professional IT Services Platform**
@@ -93,7 +91,8 @@ I'm a dedicated **Network Security Engineer** with expertise in enterprise infra
 ## 💡 What I'm Currently Working On
 
 - 🔍 Advanced penetration testing exercises
-- 🛡️ Security infrastructure automation
+- 🛡️ Security operations & SOC workflows
+- ⚙️ Security infrastructure automation
 - 📱 Mobile app development with React Native
 - 📚 Preparing for CCNA certification
 - 🎯 Building cybersecurity training resources
@@ -106,7 +105,7 @@ I'm a dedicated **Network Security Engineer** with expertise in enterprise infra
 
 | Platform | Link |
 |----------|------|
-| 💼 **LinkedIn** | [Mohammed Al-Habib]([https://linkedin.com/in/mohammed-al-habib](https://www.linkedin.com/in/mohammed-al-habib-20b544252/)) |
+| 💼 **LinkedIn** | [Mohammed Al-Habib](https://www.linkedin.com/in/mohammed-al-habib-20b544252/) |
 | 🌐 **Portfolio** | [alhbeeb.tech](https://alhbeeb.tech) |
 | 📧 **Email** | m.alhbeeb1@gmail.com |
 
@@ -124,4 +123,4 @@ I'm a dedicated **Network Security Engineer** with expertise in enterprise infra
 
 ---
 
-*Last Updated: February 2026*
+*Last Updated: April 2026*
