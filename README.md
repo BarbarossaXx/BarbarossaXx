@@ -1,4 +1,4 @@
-# <div align="center">مرحباً 👋 I'm Mohammed Al-Habib</div>
+# <div align="center"> 👋 I'm Mohammed Al-Habib</div>
 
 <div align="center">
   
